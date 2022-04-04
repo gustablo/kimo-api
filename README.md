@@ -1,3 +1,4 @@
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
@@ -25,4 +26,18 @@ Run the following command to run startup migrations.
 
 ```js
 adonis migration:run
+=======
+# kimo-api
+
+## Description
+E-commerce's api made in AdonisJS
+
+## Setup
+```bash
+  npm install
+```
+
+## How to Run
+```bash
+   adonis serve --dev
 ```
